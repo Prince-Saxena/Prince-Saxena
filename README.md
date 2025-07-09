@@ -5,7 +5,7 @@
   <!-- Animated Typing Text -->
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00F7FF&background=0F111700&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%9A%80+ASPIRING+DATA+ANALYST;%F0%9F%93%88+INSIGHT+ARCHITECT;%F0%9F%92%BB+TECHNOLOGY+ARTISAN" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&pause=1000&color=00F7FF&background=0F111700&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%9A%80+ASPIRING+DATA+ANALYST;%F0%9F%93%88+INSIGHT+ARCHITECT;%F0%9F%92%BB+DATA+SCIENCE+ENTHUSIAST" alt="Typing SVG" />
     </a>
   </h1>
 
@@ -16,11 +16,10 @@
 
 </div>
 
-## 🧪 Digital Laboratory
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Core Technologies**
+### **Core Technologies**
 
-<table>
+<table align='center'>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
@@ -67,7 +66,7 @@
   </tr>
 </table>
 
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> **Visualization Toolkit**
+### **Visualization Toolkit**
 
 <div align="center">
   
@@ -84,30 +83,22 @@
 <div align="center">
   
   <!-- Footer Badges -->
-  <h3>📬 Let's Connect</h3>
-  
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+ <h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince-saxena1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   
-  <a href="mailto:yourname@gmail.com" target="_blank">
+  <a href="mailto:princesaxena202020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.kaggle.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
+</p>
 
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Prince-Saxena" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/Prince-Saxena/Prince-Saxena/main/assets/holographic-footer.svg" width="100%" alt="Holographic Footer" />
-
 </div>
