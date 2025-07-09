@@ -1,0 +1,28 @@
+.hologram {
+  position: relative;
+  overflow: hidden;
+}
+
+.hologram::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    to right,
+    rgba(0, 247, 255, 0) 0%,
+    rgba(0, 247, 255, 0.03) 20%,
+    rgba(0, 247, 255, 0.6) 50%,
+    rgba(0, 247, 255, 0.03) 80%,
+    rgba(0, 247, 255, 0) 100%
+  );
+  transform: rotate(30deg);
+  animation: hologram-effect 3s infinite linear;
+}
+
+@keyframes hologram-effect {
+  0% { transform: rotate(30deg) translateX(-100%); }
+  100% { transform: rotate(30deg) translateX(100%); }
+}
