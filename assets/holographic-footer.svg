@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9d4edd" />
+      <stop offset="100%" stop-color="#00f7ff" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur" />
+      <feBlend in="SourceGraphic" in2="blur" mode="screen" />
+    </filter>
+  </defs>
+  <rect width="1200" height="100" fill="url(#footerGradient)" opacity="0.1"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="#00f7ff" filter="url(#glow)">CONNECT FOR DATA-DRIVEN SOLUTIONS</text>
+</svg>
