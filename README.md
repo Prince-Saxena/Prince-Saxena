@@ -17,7 +17,15 @@
 </div>
 
 
-### **Core Technologies**
+
+### 👋 About Me
+
+I'm **Prince Saxena**, a B.Tech Computer Science student and aspiring Data Analyst. I work with Python, SQL, Excel, and Power BI to analyze data and find insights. I enjoy exploring datasets, building visualizations, and solving real-world problems through data.
+
+---
+
+
+### **🔧 Tech Stack**
 
 <table align='center'>
   <tr>
@@ -78,27 +86,28 @@
 
 </div>
 
-<hr/>
+---
 
-<div align="center">
-  
-  <!-- Footer Badges -->
- <h2 align="center">📬 Let's Connect</h2>
+### 📫 Let's Connect
+
+- 💌 **Email**: [princesaxena202020@gmail.com](mailto:princesaxena202020@gmail.com)
+- 💼 **LinkedIn**: [Prince Saxena](https://www.linkedin.com/in/prince-saxena1/)
+- 🧠 **Always open to learning, collaborating, and growing with like-minded people!**
+
+---
+
+
+### 📈 GitHub Insights
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-saxena1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  
-  <a href="mailto:princesaxena202020@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Saxena&show_icons=true&theme=radical&hide_border=true" alt="Prince's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Saxena&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Saxena&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-  <a href="https://github.com/Prince-Saxena" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <br/><br/>
-</div>
+
+> _"Data will talk to you if you're willing to listen."_ — Jim Bergeson
+
